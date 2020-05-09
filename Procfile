@@ -1,0 +1,1 @@
+web: gunicorn Telco_churn_prediction:app
